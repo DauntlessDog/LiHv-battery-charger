@@ -23,3 +23,14 @@ LiHv battery charger capable of charging LiHv batteries up to 4.35v, custom 3d d
 
 ## BOM:
 https://docs.google.com/spreadsheets/d/1y4eYakeZhQ_Du6QSC2gYvQQuMS255J4ouP4txh3QHf0/edit?gid=0#gid=0
+
+### V1:
+As of 6/20/26
+
+<img width="723" height="336" alt="Screenshot 2026-06-20 at 4 49 37 PM" src="https://github.com/user-attachments/assets/995c68c3-7e52-4190-b931-1d368a2c36c4" />
+
+### V2: 
+As of 6/20/26
+
+<img width="733" height="346" alt="Screenshot 2026-06-20 at 4 49 32 PM" src="https://github.com/user-attachments/assets/394760d1-4c56-473d-a0c7-dd9bf61a438c" />
+
